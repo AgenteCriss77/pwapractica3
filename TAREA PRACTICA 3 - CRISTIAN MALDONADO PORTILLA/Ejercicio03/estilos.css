@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .menu-principal {
+    list-style: none;
+    padding: 0;
+    margin-top: 30px;
+  }
+  
+  .menu-principal li {
+    margin: 15px 0;
+  }
+  
+  .menu-principal a {
+    text-decoration: none;
+    color: white;
+    background-color: #007BFF;
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+  
+  .menu-principal a:hover {
+    background-color: #0056b3;
+  }
+  
